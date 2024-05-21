@@ -1,19 +1,19 @@
 {
-  "name": "@tamtamchik/app-store-receipt-parser",
-  "version": "2.1.2",
+  "name": "@lwtlab/app-store-receipt-parser",
+  "version": "1.0.0",
   "description": "A lightweight TypeScript library for extracting transaction IDs from Apple's ASN.1 encoded receipts.",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./src/index.ts",
-  "author": "Yuri Tkachenko <yuri.tam.tkachenko@gmail.com>",
+  "author": "feng.chen@thucydides.net",
   "license": "MIT",
-  "homepage": "https://github.com/tamtamchik/app-store-receipt-parser#readme",
+  "homepage": "https://github.com/lwtlab/app-store-receipt-parser#readme",
   "bugs": {
-    "url": "https://github.com/tamtamchik/app-store-receipt-parser/issues"
+    "url": "https://github.com/lwtlab/app-store-receipt-parser/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/tamtamchik/app-store-receipt-parser.git"
+    "url": "git+ssh://git@github.com/lwtlab/app-store-receipt-parser.git"
   },
   "keywords": [
     "apple",
